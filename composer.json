@@ -2,7 +2,7 @@
     "name": "dynamis/component-widget",
     "type": "library",
     "license": "MIT",
-    "description": "A component system meant to work together with gulp-single-file-components.",
+    "description": "A component system meant to work together with gulp-single-file-components and CMB2.",
     "homepage": "https://github.com/dynamis-wp/component-widget",
     "autoload": {
         "psr-4": {
