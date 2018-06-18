@@ -1,0 +1,19 @@
+{
+    "name": "dynamis/component-widget",
+    "type": "library",
+    "license": "MIT",
+    "description": "A component system meant to work together with gulp-single-file-components.",
+    "homepage": "https://github.com/dynamis-wp/component-widget",
+    "autoload": {
+        "psr-4": {
+            "Dynamis\\ComponentWidget\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0",
+        "tekton/support": "^2.0.0",
+        "nsrosenqvist/cmb2-widget": "^1.0.0",
+        "dynamis/framework": "^1.0"
+    }
+}
